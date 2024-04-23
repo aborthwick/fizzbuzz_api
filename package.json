@@ -1,0 +1,14 @@
+{
+	"name": "fizzbuzz-api",
+	"version": "0.1.0",
+	"description": "Provides FizzBuzz interface",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Alan Borthwick (alan.borthwick@gmail.com)",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
